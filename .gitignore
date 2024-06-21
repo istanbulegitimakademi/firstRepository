@@ -1,1 +1,90 @@
 ucuncubelge.txt
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Visual Studio 2019
+.vs/
+# Uncomment if you have tasks that create the project file and then need to run in an environment without Visual Studio
+# *.csproj.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Database files
+*.mdf
+*.ldf
+
+# Microsoft Azure
+# Uncomment if you have Azure Web Apps deploy config
+# .azure/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Ignore Linux/Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \n
+Icon\r
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
