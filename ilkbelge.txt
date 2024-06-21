@@ -4,3 +4,4 @@ ekleme yaptık
 vs üzerinden ilk satır kodu yazdık.
 vs üzerinden yeni kod yazıldı
 vs yeni kod
+vs code ile bir degisiklik yaptık.
