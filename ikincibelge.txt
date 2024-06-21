@@ -1,3 +1,4 @@
 ben ikinci belgeyim
 yeni satır
 yepyeni bir satır kod eklendi
+abc
