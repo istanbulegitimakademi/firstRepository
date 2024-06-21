@@ -1,3 +1,4 @@
 ilk belge
 yeni bir içerik ekliyorum.
 ekleme yaptık
+vs üzerinden ilk satır kodu yazdık.
