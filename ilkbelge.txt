@@ -1,2 +1,3 @@
 ilk belge
 yeni bir içerik ekliyorum.
+ekleme yaptık
